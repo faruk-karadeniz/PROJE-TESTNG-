@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Belirli classlari calistirma">
+
+    <test name="classlar">
+
+    <classes>
+        <class name="tests.Proje.US_001"></class>
+        
+    </classes>
+    </test>
+</suite>
+
+
+
+
+
